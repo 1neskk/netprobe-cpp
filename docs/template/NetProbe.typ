@@ -122,7 +122,7 @@
             ]
             #v(0.5fr)
             #par(first-line-indent: 0pt)[
-                Este documento apresenta a documentação do produto de software NetProbe, desenvolvido como parte dos requisitos da disciplina Modelos, Métodos e Técnicas da Engenharia de Software na Universidade São Judas Tadeu. O NetProbe é uma ferramenta projetada para monitorar e analisar o desempenho de redes de computadores, oferecendo insights valiosos para administradores de rede. A documentação abrange desde a concepção inicial até a implementação final, incluindo diagramas UML, especificações técnicas e instruções de uso.
+                Este documento apresenta a documentação do produto de software *NetProbe*, um analisador de tráfego de rede desenvolvido para monitorar e analisar pacotes em tempo real. O sistema é composto por um backend em C++ responsável pela captura e processamento dos pacotes, e um frontend web que exibe os dados de forma dinâmica e interativa. A comunicação entre o backend e o frontend é realizada utilizando WebAssembly, garantindo alta performance e eficiência. O documento detalha os requisitos funcionais e não-funcionais do sistema, o modelo de qualidade adotado, o protótipo de interface, o plano de gestão de configuração do software, e a estratégia de testes implementada para garantir a qualidade do produto final.
             ]
             #v(0.5fr)
             #par(first-line-indent: 0pt)[
